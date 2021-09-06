@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>9475524314-fqgrad4kasb13i6vrjbaupacs7jn4td4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.9475524314-fqgrad4kasb13i6vrjbaupacs7jn4td4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAx8LDHJ050k1WkVXl1aPdG6wh369ujz1Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>9475524314</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.com.ceiba.designpatterns</string>
+	<key>PROJECT_ID</key>
+	<string>dojocommandpattern</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dojocommandpattern.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:9475524314:ios:e8257fa74368fa862747e3</string>
+	<key>DATABASE_URL</key>
+	<string>https://dojocommandpattern.firebaseio.com</string>
+</dict>
+</plist>
